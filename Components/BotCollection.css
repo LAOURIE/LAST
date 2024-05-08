@@ -1,0 +1,61 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.card-body {
+    padding: 10px 0;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.text-body-secondary {
+    color: #666;
+    font-size: 14px;
+}
+
+.card-footer {
+    margin-top: 10px;
+}
+
+.button1,
+.button2 {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.button1:hover,
+.button2:hover {
+    background-color: #0056b3;
+}
+
+.button1 {
+    background-color: #dc3545;
+}
+
+.button1:hover {
+    background-color: #c82333;
+}
+/* BotCard.css */
+.bot-card-light-blue {
+    background-color: #b3e5fc; /* Light blue color */
+  }
+  

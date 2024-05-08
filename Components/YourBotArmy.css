@@ -1,0 +1,25 @@
+.armybot {
+    margin-top: 20px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.bot-image-smaller {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+   
+
+.botinfo {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.botinfo h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
