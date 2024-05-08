@@ -41,7 +41,7 @@ function BotSpecs() {
 
         <button
           className="button1"
-          onClick={() => navigate("/")}
+          onClick={() => navigate("/LAST")}
         >
           Go Back
         </button>

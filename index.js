@@ -11,8 +11,8 @@ root.render(
   <React.StrictMode>
     <Router>
       <Routes>
-        <Route path="/" element={<App />} />
-        <Route path="/:id" element={<BotSpecs />} />
+        <Route path="/LAST" element={<App />} />
+        <Route path="/LAST/:id" element={<BotSpecs />} />
       </Routes>
     </Router>
   </React.StrictMode>

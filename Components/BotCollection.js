@@ -81,7 +81,7 @@ const colors = ["bot-card-blue", "bot-card-green", "bot-card-yellow", "bot-card-
                                 src={bot.avatar_url}
                                 className="card-img-center"
                                 alt=""
-                                onClick={() => navigate(`/${bot.id}`)}
+                                onClick={() => navigate(`/LAST/${bot.id}`)}
                             />
                             <div className="card-body">
                                 <h2 className="card-title">{bot.name}</h2>
